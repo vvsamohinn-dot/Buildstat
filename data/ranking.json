@@ -28,15 +28,31 @@
           "unit": "домов",
           "period": "с 2016 по 2026-08-25",
           "verified_at": "2026-08-25"
+        },
+        "valuation": {
+          "value": 381371166425.6,
+          "currency": "RUB",
+          "period": "на 2026-06-30",
+          "verified_at": "2026-08-25",
+          "sort_value": 4904849357,
+          "sort_currency": "USD"
         }
       },
       "sources": [
         {
           "title": "ЕРЗ — накопленный ввод жилья",
           "url": "https://erzrf.ru/top-zastroyshchikov/rf?topType=4"
+        },
+        {
+          "title": "Московская биржа — капитализация на 30.06.2026",
+          "url": "https://www.moex.com/a9313"
+        },
+        {
+          "title": "Банк России — курс USD/RUB на 30.06.2026",
+          "url": "https://www.cbr.ru/eng/currency_base/daily/?UniDbQuery.Posted=True&UniDbQuery.To=30.06.2026"
         }
       ],
-      "notes": "Накопленный ввод с 2016 года по данным ЕРЗ."
+      "notes": "Накопленный ввод с 2016 года по данным ЕРЗ. Стоимость — биржевая капитализация ПИК СЗ; USD-эквивалент применяется только для сортировки."
     },
     {
       "id": "samolet",
@@ -61,15 +77,31 @@
           "unit": "домов",
           "period": "с 2016 по 2026-08-25",
           "verified_at": "2026-08-25"
+        },
+        "valuation": {
+          "value": 19803921532.8,
+          "currency": "RUB",
+          "period": "на 2026-06-30",
+          "verified_at": "2026-08-25",
+          "sort_value": 254700041,
+          "sort_currency": "USD"
         }
       },
       "sources": [
         {
           "title": "ЕРЗ — накопленный ввод жилья",
           "url": "https://erzrf.ru/top-zastroyshchikov/rf?topType=4"
+        },
+        {
+          "title": "Московская биржа — капитализация на 30.06.2026",
+          "url": "https://www.moex.com/a9313"
+        },
+        {
+          "title": "Банк России — курс USD/RUB на 30.06.2026",
+          "url": "https://www.cbr.ru/eng/currency_base/daily/?UniDbQuery.Posted=True&UniDbQuery.To=30.06.2026"
         }
       ],
-      "notes": "Накопленный ввод с 2016 года по данным ЕРЗ."
+      "notes": "Накопленный ввод с 2016 года по данным ЕРЗ. Стоимость — биржевая капитализация; USD-эквивалент применяется только для сортировки."
     },
     {
       "id": "setl",
@@ -129,15 +161,31 @@
           "period": "с 2016 по 2026-08-25",
           "verified_at": "2026-08-25",
           "source_url": "https://erzrf.ru/top-zastroyshchikov/rf?topType=4"
+        },
+        "valuation": {
+          "value": 62250855903,
+          "currency": "RUB",
+          "period": "на 2026-06-30",
+          "verified_at": "2026-08-25",
+          "sort_value": 800613936,
+          "sort_currency": "USD"
         }
       },
       "sources": [
         {
           "title": "ЕРЗ — накопленный ввод жилья",
           "url": "https://erzrf.ru/top-zastroyshchikov/rf?topType=4"
+        },
+        {
+          "title": "Московская биржа — капитализация на 30.06.2026",
+          "url": "https://www.moex.com/a9313"
+        },
+        {
+          "title": "Банк России — курс USD/RUB на 30.06.2026",
+          "url": "https://www.cbr.ru/eng/currency_base/daily/?UniDbQuery.Posted=True&UniDbQuery.To=30.06.2026"
         }
       ],
-      "notes": "Накопленный ввод с 2016 года по данным ЕРЗ."
+      "notes": "Накопленный ввод с 2016 года по данным ЕРЗ. Стоимость — биржевая капитализация; USD-эквивалент применяется только для сортировки."
     },
     {
       "id": "fsk",
@@ -233,6 +281,14 @@
       ],
       "comparability_group": "annual_home_deliveries",
       "metrics": {
+        "area": {
+          "value": 17297563,
+          "unit": "м²",
+          "period": "финансовый 2025 год",
+          "verified_at": "2026-08-25",
+          "estimated": true,
+          "method": "84 863 переданных дома × 2 194 ft² (медианная площадь нового проданного односемейного дома в США в 2025 году) × 0,09290304"
+        },
         "objects": {
           "value": 84863,
           "unit": "домов",
@@ -244,15 +300,31 @@
           "currency": "USD",
           "period": "финансовый 2025 год",
           "verified_at": "2026-08-25"
+        },
+        "valuation": {
+          "value": 41490000000,
+          "currency": "USD",
+          "period": "на 2026-08-23",
+          "verified_at": "2026-08-25",
+          "sort_value": 41490000000,
+          "sort_currency": "USD"
         }
       },
       "sources": [
         {
           "title": "D.R. Horton — результаты 2025",
           "url": "https://investor.drhorton.com/news-and-events/press-releases/2025/10-28-2025-103117295"
+        },
+        {
+          "title": "U.S. Census — характеристики нового жилья 2025",
+          "url": "https://www.census.gov/construction/chars/highlights.html"
+        },
+        {
+          "title": "D.R. Horton — рыночная капитализация",
+          "url": "https://companiesmarketcap.com/dr-horton/marketcap/"
         }
       ],
-      "notes": "Годовые передачи домов не смешиваются с накопленным вводом площади."
+      "notes": "Площадь — расчётная оценка, а не раскрытый компанией показатель: число переданных домов умножено на медианную площадь нового проданного односемейного дома в США. Годовая оценка не смешивается с накопленным вводом ЕРЗ."
     },
     {
       "id": "lennar",
@@ -264,6 +336,14 @@
       ],
       "comparability_group": "annual_home_deliveries",
       "metrics": {
+        "area": {
+          "value": 16832833,
+          "unit": "м²",
+          "period": "финансовый 2025 год",
+          "verified_at": "2026-08-25",
+          "estimated": true,
+          "method": "82 583 переданных дома × 2 194 ft² (медианная площадь нового проданного односемейного дома в США в 2025 году) × 0,09290304"
+        },
         "objects": {
           "value": 82583,
           "unit": "домов",
@@ -275,15 +355,31 @@
           "currency": "USD",
           "period": "финансовый 2025 год",
           "verified_at": "2026-08-25"
+        },
+        "valuation": {
+          "value": 21240000000,
+          "currency": "USD",
+          "period": "на 2026-08-24",
+          "verified_at": "2026-08-25",
+          "sort_value": 21240000000,
+          "sort_currency": "USD"
         }
       },
       "sources": [
         {
           "title": "Lennar — результаты 2025",
           "url": "https://investors.lennar.com/press-releases/2025/12-16-2025-213022894"
+        },
+        {
+          "title": "U.S. Census — характеристики нового жилья 2025",
+          "url": "https://www.census.gov/construction/chars/highlights.html"
+        },
+        {
+          "title": "Lennar — рыночная капитализация",
+          "url": "https://stockanalysis.com/stocks/len/market-cap/"
         }
       ],
-      "notes": "Годовые передачи домов не смешиваются с накопленным вводом площади."
+      "notes": "Площадь — расчётная оценка, а не раскрытый компанией показатель: число переданных домов умножено на медианную площадь нового проданного односемейного дома в США. Годовая оценка не смешивается с накопленным вводом ЕРЗ."
     },
     {
       "id": "prologis",
@@ -296,20 +392,40 @@
       ],
       "comparability_group": "portfolio_area",
       "metrics": {
+        "area": {
+          "value": 1021933,
+          "unit": "м²",
+          "period": "2025 год",
+          "verified_at": "2026-08-25",
+          "approximate": true,
+          "method": "11 млн ft² стабилизированных девелоперских объектов × 0,09290304; исходное значение в отчёте округлено"
+        },
         "profit": {
           "value": 3565299000,
           "currency": "USD",
           "period": "2025 год",
           "verified_at": "2026-08-25"
+        },
+        "valuation": {
+          "value": 133100000000,
+          "currency": "USD",
+          "period": "на 2026-08-25",
+          "verified_at": "2026-08-25",
+          "sort_value": 133100000000,
+          "sort_currency": "USD"
         }
       },
       "sources": [
         {
           "title": "Prologis — годовой отчёт 2025",
           "url": "https://ir.prologis.com/financials/sec-filings/content/0001193125-26-051453/pld-20251231.htm"
+        },
+        {
+          "title": "Prologis — рыночная капитализация",
+          "url": "https://upstox.com/us-stocks/pld-share-price/"
         }
       ],
-      "notes": "Площадь портфеля не считается самостоятельно построенной площадью."
+      "notes": "Площадь — стабилизированные девелоперские объекты за 2025 год, а не площадь всего портфеля. Исходное значение 11 млн ft² раскрыто компанией в округлённом виде."
     }
   ]
 }
