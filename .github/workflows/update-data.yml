@@ -2,10 +2,16 @@ name: Daily data update
 on:
   schedule: [{cron: '17 3 * * *'}]
   workflow_dispatch:
-permissions: {contents: write}
+permissions: {contents: write, pages: write, id-token: write}
+concurrency:
+  group: daily-data-and-pages
+  cancel-in-progress: false
 jobs:
   update:
     runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: "${{ steps.deployment.outputs.page_url }}"
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -19,3 +25,9 @@ jobs:
           git add data
           git diff --cached --quiet || git commit -m "data: daily verified update"
           git push
+      - run: python scripts/build.py
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with: {path: dist}
+      - uses: actions/deploy-pages@v4
+        id: deployment
