@@ -42,5 +42,5 @@ def main():
   c["metrics"][k]={"value":x["value"],"unit":x.get("unit"),"currency":x.get("currency"),"period":x["period"],"verified_at":str(date.today()),"source_url":x["source_url"]}
  d["meta"]["last_verified"]=str(date.today());d["meta"]["review_queue_count"]=len(q)
  if validate(d):raise SystemExit("validation failed")
- DB.write_text(json.dumps(d,ensure_ascii=False,indent=2)+"\\n",encoding="utf-8");Q.write_text(json.dumps(q,ensure_ascii=False,indent=2)+"\\n",encoding="utf-8");print("Accepted",len(xs)-len(q),"queued",len(q))
+ DB.write_text(json.dumps(d,ensure_ascii=False,indent=2)+"\n",encoding="utf-8");Q.write_text(json.dumps(q,ensure_ascii=False,indent=2)+"\n",encoding="utf-8");print("Accepted",len(xs)-len(q),"queued",len(q))
 if __name__=="__main__":main()
