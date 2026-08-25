@@ -1,12 +1,315 @@
-{"meta":{"schema_version":1,"last_verified":"2026-08-25","review_queue_count":0},"companies":[
-{"id":"pik","name":"Группа ПИК","country":"Россия","region":"Москва","categories":["Многоквартирные дома"],"comparability_group":"cumulative_area","metrics":{"area":{"value":19009086,"unit":"м²","period":"с 2016 по 2026-08-25","verified_at":"2026-08-25"},"objects":{"value":942,"unit":"домов","period":"с 2016 по 2026-08-25","verified_at":"2026-08-25"}},"sources":[{"title":"ЕРЗ — накопленный ввод жилья","url":"https://erzrf.ru/top-zastroyshchikov/rf?topType=4"}],"notes":"Накопленный ввод с 2016 года по данным ЕРЗ."},
-{"id":"samolet","name":"Группа Самолет","country":"Россия","region":"Москва","categories":["Многоквартирные дома"],"comparability_group":"cumulative_area","metrics":{"area":{"value":9815567,"unit":"м²","period":"с 2016 по 2026-08-25","verified_at":"2026-08-25"},"objects":{"value":567,"unit":"домов","period":"с 2016 по 2026-08-25","verified_at":"2026-08-25"}},"sources":[{"title":"ЕРЗ — накопленный ввод жилья","url":"https://erzrf.ru/top-zastroyshchikov/rf?topType=4"}],"notes":"Накопленный ввод с 2016 года по данным ЕРЗ."},
-{"id":"setl","name":"Setl Group","country":"Россия","region":"Санкт-Петербург","categories":["Многоквартирные дома"],"comparability_group":"cumulative_area","metrics":{"area":{"value":6916491,"unit":"м²","period":"с 2016 по 2026-08-25","verified_at":"2026-08-25"},"objects":{"value":340,"unit":"домов","period":"с 2016 по 2026-08-25","verified_at":"2026-08-25"}},"sources":[{"title":"ЕРЗ — накопленный ввод жилья","url":"https://erzrf.ru/top-zastroyshchikov/rf?topType=4"}],"notes":"Накопленный ввод с 2016 года по данным ЕРЗ."},
-{"id":"lsr","name":"Группа ЛСР","country":"Россия","region":"Санкт-Петербург","categories":["Многоквартирные дома"],"comparability_group":"cumulative_area","metrics":{"area":{"value":6874070,"unit":"м²","period":"с 2016 по 2026-08-25","verified_at":"2026-08-25"},"objects":{"value":435,"unit":"домов","period":"с 2016 по 2026-08-25","verified_at":"2026-08-25"}},"sources":[{"title":"ЕРЗ — накопленный ввод жилья","url":"https://erzrf.ru/top-zastroyshchikov/rf?topType=4"}],"notes":"Накопленный ввод с 2016 года по данным ЕРЗ."},
-{"id":"fsk","name":"ГК ФСК","country":"Россия","region":"Москва","categories":["Многоквартирные дома"],"comparability_group":"cumulative_area","metrics":{"area":{"value":4799207,"unit":"м²","period":"с 2016 по 2026-08-25","verified_at":"2026-08-25"},"objects":{"value":222,"unit":"домов","period":"с 2016 по 2026-08-25","verified_at":"2026-08-25"}},"sources":[{"title":"ЕРЗ — накопленный ввод жилья","url":"https://erzrf.ru/top-zastroyshchikov/rf?topType=4"}],"notes":"Накопленный ввод с 2016 года по данным ЕРЗ."},
-{"id":"dogma","name":"DOGMA","country":"Россия","region":"Краснодарский край","categories":["Многоквартирные дома"],"comparability_group":"cumulative_area","metrics":{},"sources":[{"title":"ЕРЗ — рейтинг по вводу жилья","url":"https://erzrf.ru/top-zastroyshchikov/rf?topType=0"}],"notes":"Показатели публикуются только после проверки агентом."},
-{"id":"brusnika","name":"Брусника","country":"Россия","region":"Свердловская область","categories":["Многоквартирные дома"],"comparability_group":"cumulative_area","metrics":{"area":{"value":2421527,"unit":"м²","period":"с 2016 по 2026-08-25","verified_at":"2026-08-25"},"objects":{"value":174,"unit":"домов","period":"с 2016 по 2026-08-25","verified_at":"2026-08-25"}},"sources":[{"title":"ЕРЗ — накопленный ввод жилья","url":"https://erzrf.ru/top-zastroyshchikov/rf?topType=4"}],"notes":"Накопленный ввод с 2016 года по данным ЕРЗ."},
-{"id":"dr-horton","name":"D.R. Horton","country":"США","region":"Техас","categories":["Частные дома"],"comparability_group":"annual_home_deliveries","metrics":{"objects":{"value":84863,"unit":"домов","period":"финансовый 2025 год","verified_at":"2026-08-25"},"profit":{"value":3600000000,"currency":"USD","period":"финансовый 2025 год","verified_at":"2026-08-25"}},"sources":[{"title":"D.R. Horton — результаты 2025","url":"https://investor.drhorton.com/news-and-events/press-releases/2025/10-28-2025-103117295"}],"notes":"Годовые передачи домов не смешиваются с накопленным вводом площади."},
-{"id":"lennar","name":"Lennar","country":"США","region":"Флорида","categories":["Частные дома"],"comparability_group":"annual_home_deliveries","metrics":{"objects":{"value":82583,"unit":"домов","period":"финансовый 2025 год","verified_at":"2026-08-25"},"profit":{"value":2100000000,"currency":"USD","period":"финансовый 2025 год","verified_at":"2026-08-25"}},"sources":[{"title":"Lennar — результаты 2025","url":"https://investors.lennar.com/press-releases/2025/12-16-2025-213022894"}],"notes":"Годовые передачи домов не смешиваются с накопленным вводом площади."},
-{"id":"prologis","name":"Prologis","country":"США","region":"Калифорния","categories":["Коммерческое строительство","Склады"],"comparability_group":"portfolio_area","metrics":{"profit":{"value":3565299000,"currency":"USD","period":"2025 год","verified_at":"2026-08-25"}},"sources":[{"title":"Prologis — годовой отчёт 2025","url":"https://ir.prologis.com/financials/sec-filings/content/0001193125-26-051453/pld-20251231.htm"}],"notes":"Площадь портфеля не считается самостоятельно построенной площадью."}
-]}
+{
+  "meta": {
+    "schema_version": 1,
+    "last_verified": "2026-08-25",
+    "review_queue_count": 5
+  },
+  "companies": [
+    {
+      "id": "pik",
+      "name": "Группа ПИК",
+      "country": "Россия",
+      "region": "Москва",
+      "categories": [
+        "Многоквартирные дома"
+      ],
+      "comparability_group": "cumulative_area",
+      "metrics": {
+        "area": {
+          "value": 19009086,
+          "unit": "м²",
+          "currency": null,
+          "period": "с 2016 по 2026-08-25",
+          "verified_at": "2026-08-25",
+          "source_url": "https://erzrf.ru/top-zastroyshchikov/rf?topType=4"
+        },
+        "objects": {
+          "value": 942,
+          "unit": "домов",
+          "period": "с 2016 по 2026-08-25",
+          "verified_at": "2026-08-25"
+        }
+      },
+      "sources": [
+        {
+          "title": "ЕРЗ — накопленный ввод жилья",
+          "url": "https://erzrf.ru/top-zastroyshchikov/rf?topType=4"
+        }
+      ],
+      "notes": "Накопленный ввод с 2016 года по данным ЕРЗ."
+    },
+    {
+      "id": "samolet",
+      "name": "Группа Самолет",
+      "country": "Россия",
+      "region": "Москва",
+      "categories": [
+        "Многоквартирные дома"
+      ],
+      "comparability_group": "cumulative_area",
+      "metrics": {
+        "area": {
+          "value": 9815567,
+          "unit": "м²",
+          "currency": null,
+          "period": "с 2016 по 2026-08-25",
+          "verified_at": "2026-08-25",
+          "source_url": "https://erzrf.ru/top-zastroyshchikov/rf?topType=4"
+        },
+        "objects": {
+          "value": 567,
+          "unit": "домов",
+          "period": "с 2016 по 2026-08-25",
+          "verified_at": "2026-08-25"
+        }
+      },
+      "sources": [
+        {
+          "title": "ЕРЗ — накопленный ввод жилья",
+          "url": "https://erzrf.ru/top-zastroyshchikov/rf?topType=4"
+        }
+      ],
+      "notes": "Накопленный ввод с 2016 года по данным ЕРЗ."
+    },
+    {
+      "id": "setl",
+      "name": "Setl Group",
+      "country": "Россия",
+      "region": "Санкт-Петербург",
+      "categories": [
+        "Многоквартирные дома"
+      ],
+      "comparability_group": "cumulative_area",
+      "metrics": {
+        "area": {
+          "value": 6916491,
+          "unit": "м²",
+          "currency": null,
+          "period": "с 2016 по 2026-08-25",
+          "verified_at": "2026-08-25",
+          "source_url": "https://erzrf.ru/top-zastroyshchikov/rf?topType=4"
+        },
+        "objects": {
+          "value": 340,
+          "unit": "домов",
+          "period": "с 2016 по 2026-08-25",
+          "verified_at": "2026-08-25"
+        }
+      },
+      "sources": [
+        {
+          "title": "ЕРЗ — накопленный ввод жилья",
+          "url": "https://erzrf.ru/top-zastroyshchikov/rf?topType=4"
+        }
+      ],
+      "notes": "Накопленный ввод с 2016 года по данным ЕРЗ."
+    },
+    {
+      "id": "lsr",
+      "name": "Группа ЛСР",
+      "country": "Россия",
+      "region": "Санкт-Петербург",
+      "categories": [
+        "Многоквартирные дома"
+      ],
+      "comparability_group": "cumulative_area",
+      "metrics": {
+        "area": {
+          "value": 6874070,
+          "unit": "м²",
+          "currency": null,
+          "period": "с 2016 по 2026-08-25",
+          "verified_at": "2026-08-25",
+          "source_url": "https://erzrf.ru/top-zastroyshchikov/rf?topType=4"
+        },
+        "objects": {
+          "value": 588,
+          "unit": "домов",
+          "currency": null,
+          "period": "с 2016 по 2026-08-25",
+          "verified_at": "2026-08-25",
+          "source_url": "https://erzrf.ru/top-zastroyshchikov/rf?topType=4"
+        }
+      },
+      "sources": [
+        {
+          "title": "ЕРЗ — накопленный ввод жилья",
+          "url": "https://erzrf.ru/top-zastroyshchikov/rf?topType=4"
+        }
+      ],
+      "notes": "Накопленный ввод с 2016 года по данным ЕРЗ."
+    },
+    {
+      "id": "fsk",
+      "name": "ГК ФСК",
+      "country": "Россия",
+      "region": "Москва",
+      "categories": [
+        "Многоквартирные дома"
+      ],
+      "comparability_group": "cumulative_area",
+      "metrics": {
+        "area": {
+          "value": 4799207,
+          "unit": "м²",
+          "currency": null,
+          "period": "с 2016 по 2026-08-25",
+          "verified_at": "2026-08-25",
+          "source_url": "https://erzrf.ru/top-zastroyshchikov/rf?topType=4"
+        },
+        "objects": {
+          "value": 222,
+          "unit": "домов",
+          "period": "с 2016 по 2026-08-25",
+          "verified_at": "2026-08-25"
+        }
+      },
+      "sources": [
+        {
+          "title": "ЕРЗ — накопленный ввод жилья",
+          "url": "https://erzrf.ru/top-zastroyshchikov/rf?topType=4"
+        }
+      ],
+      "notes": "Накопленный ввод с 2016 года по данным ЕРЗ."
+    },
+    {
+      "id": "dogma",
+      "name": "DOGMA",
+      "country": "Россия",
+      "region": "Краснодарский край",
+      "categories": [
+        "Многоквартирные дома"
+      ],
+      "comparability_group": "cumulative_area",
+      "metrics": {},
+      "sources": [
+        {
+          "title": "ЕРЗ — рейтинг по вводу жилья",
+          "url": "https://erzrf.ru/top-zastroyshchikov/rf?topType=0"
+        }
+      ],
+      "notes": "Показатели публикуются только после проверки агентом."
+    },
+    {
+      "id": "brusnika",
+      "name": "Брусника",
+      "country": "Россия",
+      "region": "Свердловская область",
+      "categories": [
+        "Многоквартирные дома"
+      ],
+      "comparability_group": "cumulative_area",
+      "metrics": {
+        "area": {
+          "value": 2421527,
+          "unit": "м²",
+          "currency": null,
+          "period": "с 2016 по 2026-08-25",
+          "verified_at": "2026-08-25",
+          "source_url": "https://erzrf.ru/top-zastroyshchikov/rf?topType=4"
+        },
+        "objects": {
+          "value": 174,
+          "unit": "домов",
+          "period": "с 2016 по 2026-08-25",
+          "verified_at": "2026-08-25"
+        }
+      },
+      "sources": [
+        {
+          "title": "ЕРЗ — накопленный ввод жилья",
+          "url": "https://erzrf.ru/top-zastroyshchikov/rf?topType=4"
+        }
+      ],
+      "notes": "Накопленный ввод с 2016 года по данным ЕРЗ."
+    },
+    {
+      "id": "dr-horton",
+      "name": "D.R. Horton",
+      "country": "США",
+      "region": "Техас",
+      "categories": [
+        "Частные дома"
+      ],
+      "comparability_group": "annual_home_deliveries",
+      "metrics": {
+        "objects": {
+          "value": 84863,
+          "unit": "домов",
+          "period": "финансовый 2025 год",
+          "verified_at": "2026-08-25"
+        },
+        "profit": {
+          "value": 3600000000,
+          "currency": "USD",
+          "period": "финансовый 2025 год",
+          "verified_at": "2026-08-25"
+        }
+      },
+      "sources": [
+        {
+          "title": "D.R. Horton — результаты 2025",
+          "url": "https://investor.drhorton.com/news-and-events/press-releases/2025/10-28-2025-103117295"
+        }
+      ],
+      "notes": "Годовые передачи домов не смешиваются с накопленным вводом площади."
+    },
+    {
+      "id": "lennar",
+      "name": "Lennar",
+      "country": "США",
+      "region": "Флорида",
+      "categories": [
+        "Частные дома"
+      ],
+      "comparability_group": "annual_home_deliveries",
+      "metrics": {
+        "objects": {
+          "value": 82583,
+          "unit": "домов",
+          "period": "финансовый 2025 год",
+          "verified_at": "2026-08-25"
+        },
+        "profit": {
+          "value": 2100000000,
+          "currency": "USD",
+          "period": "финансовый 2025 год",
+          "verified_at": "2026-08-25"
+        }
+      },
+      "sources": [
+        {
+          "title": "Lennar — результаты 2025",
+          "url": "https://investors.lennar.com/press-releases/2025/12-16-2025-213022894"
+        }
+      ],
+      "notes": "Годовые передачи домов не смешиваются с накопленным вводом площади."
+    },
+    {
+      "id": "prologis",
+      "name": "Prologis",
+      "country": "США",
+      "region": "Калифорния",
+      "categories": [
+        "Коммерческое строительство",
+        "Склады"
+      ],
+      "comparability_group": "portfolio_area",
+      "metrics": {
+        "profit": {
+          "value": 3565299000,
+          "currency": "USD",
+          "period": "2025 год",
+          "verified_at": "2026-08-25"
+        }
+      },
+      "sources": [
+        {
+          "title": "Prologis — годовой отчёт 2025",
+          "url": "https://ir.prologis.com/financials/sec-filings/content/0001193125-26-051453/pld-20251231.htm"
+        }
+      ],
+      "notes": "Площадь портфеля не считается самостоятельно построенной площадью."
+    }
+  ]
+}
