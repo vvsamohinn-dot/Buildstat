@@ -4,7 +4,7 @@
     "metric": "objects",
     "value": 2091,
     "unit": "домов",
-    "period": "с 2016 по 2026-09-02",
+    "period": "с 2016 по 2026-09-03",
     "source_url": "https://erzrf.ru/top-zastroyshchikov/rf?topType=4",
     "cumulative": true,
     "reasons": [
@@ -16,7 +16,7 @@
     "metric": "objects",
     "value": 699,
     "unit": "домов",
-    "period": "с 2016 по 2026-09-02",
+    "period": "с 2016 по 2026-09-03",
     "source_url": "https://erzrf.ru/top-zastroyshchikov/rf?topType=4",
     "cumulative": true,
     "reasons": [
@@ -28,7 +28,7 @@
     "metric": "objects",
     "value": 864,
     "unit": "домов",
-    "period": "с 2016 по 2026-09-02",
+    "period": "с 2016 по 2026-09-03",
     "source_url": "https://erzrf.ru/top-zastroyshchikov/rf?topType=4",
     "cumulative": true,
     "reasons": [
@@ -40,7 +40,7 @@
     "metric": "objects",
     "value": 2687,
     "unit": "домов",
-    "period": "с 2016 по 2026-09-02",
+    "period": "с 2016 по 2026-09-03",
     "source_url": "https://erzrf.ru/top-zastroyshchikov/rf?topType=4",
     "cumulative": true,
     "reasons": [
