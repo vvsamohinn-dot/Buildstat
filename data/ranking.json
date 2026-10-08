@@ -1,7 +1,7 @@
 {
   "meta": {
     "schema_version": 1,
-    "last_verified": "2026-10-07",
+    "last_verified": "2026-10-08",
     "review_queue_count": 4
   },
   "companies": [
@@ -19,8 +19,8 @@
           "value": 19119992,
           "unit": "м²",
           "currency": null,
-          "period": "с 2016 по 2026-10-07",
-          "verified_at": "2026-10-07",
+          "period": "с 2016 по 2026-10-08",
+          "verified_at": "2026-10-08",
           "source_url": "https://erzrf.ru/top-zastroyshchikov/rf?topType=4"
         },
         "objects": {
@@ -68,16 +68,16 @@
           "value": 9908746,
           "unit": "м²",
           "currency": null,
-          "period": "с 2016 по 2026-10-07",
-          "verified_at": "2026-10-07",
+          "period": "с 2016 по 2026-10-08",
+          "verified_at": "2026-10-08",
           "source_url": "https://erzrf.ru/top-zastroyshchikov/rf?topType=4"
         },
         "objects": {
           "value": 826,
           "unit": "домов",
           "currency": null,
-          "period": "с 2016 по 2026-10-07",
-          "verified_at": "2026-10-07",
+          "period": "с 2016 по 2026-10-08",
+          "verified_at": "2026-10-08",
           "source_url": "https://erzrf.ru/top-zastroyshchikov/rf?topType=4"
         },
         "valuation": {
@@ -119,8 +119,8 @@
           "value": 7054308,
           "unit": "м²",
           "currency": null,
-          "period": "с 2016 по 2026-10-07",
-          "verified_at": "2026-10-07",
+          "period": "с 2016 по 2026-10-08",
+          "verified_at": "2026-10-08",
           "source_url": "https://erzrf.ru/top-zastroyshchikov/rf?topType=4"
         },
         "objects": {
@@ -152,16 +152,16 @@
           "value": 6917990,
           "unit": "м²",
           "currency": null,
-          "period": "с 2016 по 2026-10-07",
-          "verified_at": "2026-10-07",
+          "period": "с 2016 по 2026-10-08",
+          "verified_at": "2026-10-08",
           "source_url": "https://erzrf.ru/top-zastroyshchikov/rf?topType=4"
         },
         "objects": {
           "value": 590,
           "unit": "домов",
           "currency": null,
-          "period": "с 2016 по 2026-10-07",
-          "verified_at": "2026-10-07",
+          "period": "с 2016 по 2026-10-08",
+          "verified_at": "2026-10-08",
           "source_url": "https://erzrf.ru/top-zastroyshchikov/rf?topType=4"
         },
         "valuation": {
@@ -203,8 +203,8 @@
           "value": 4880132,
           "unit": "м²",
           "currency": null,
-          "period": "с 2016 по 2026-10-07",
-          "verified_at": "2026-10-07",
+          "period": "с 2016 по 2026-10-08",
+          "verified_at": "2026-10-08",
           "source_url": "https://erzrf.ru/top-zastroyshchikov/rf?topType=4"
         },
         "objects": {
@@ -254,8 +254,8 @@
           "value": 2496424,
           "unit": "м²",
           "currency": null,
-          "period": "с 2016 по 2026-10-07",
-          "verified_at": "2026-10-07",
+          "period": "с 2016 по 2026-10-08",
+          "verified_at": "2026-10-08",
           "source_url": "https://erzrf.ru/top-zastroyshchikov/rf?topType=4"
         },
         "objects": {
